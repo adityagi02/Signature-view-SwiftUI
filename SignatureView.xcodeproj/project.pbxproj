@@ -11,6 +11,8 @@
 		ACD9059E2B38474300A6735B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD9059D2B38474300A6735B /* ContentView.swift */; };
 		ACD905A02B38474400A6735B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACD9059F2B38474400A6735B /* Assets.xcassets */; };
 		ACD905A32B38474400A6735B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACD905A22B38474400A6735B /* Preview Assets.xcassets */; };
+		ACD905AA2B38476A00A6735B /* DrawSignatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD905A92B38476A00A6735B /* DrawSignatureView.swift */; };
+		ACD905AC2B38487E00A6735B /* SignatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD905AB2B38487E00A6735B /* SignatureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		ACD9059D2B38474300A6735B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ACD9059F2B38474400A6735B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACD905A22B38474400A6735B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ACD905A92B38476A00A6735B /* DrawSignatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawSignatureView.swift; sourceTree = "<group>"; };
+		ACD905AB2B38487E00A6735B /* SignatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignatureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				ACD9059B2B38474300A6735B /* SignatureViewApp.swift */,
+				ACD905AB2B38487E00A6735B /* SignatureView.swift */,
+				ACD905A92B38476A00A6735B /* DrawSignatureView.swift */,
 				ACD9059D2B38474300A6735B /* ContentView.swift */,
 				ACD9059F2B38474400A6735B /* Assets.xcassets */,
 				ACD905A12B38474400A6735B /* Preview Content */,
@@ -139,6 +145,8 @@
 			files = (
 				ACD9059E2B38474300A6735B /* ContentView.swift in Sources */,
 				ACD9059C2B38474300A6735B /* SignatureViewApp.swift in Sources */,
+				ACD905AA2B38476A00A6735B /* DrawSignatureView.swift in Sources */,
+				ACD905AC2B38487E00A6735B /* SignatureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

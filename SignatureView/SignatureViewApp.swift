@@ -11,7 +11,7 @@ import SwiftUI
 struct SignatureViewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(signatureImage: .constant(.init()), signaturePDF: .constant(.init()))
         }
     }
 }

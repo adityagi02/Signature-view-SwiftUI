@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ACC94FB12B39E7890021A07D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ACC94FB02B39E7890021A07D /* README.md */; };
 		ACD9059C2B38474300A6735B /* SignatureViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD9059B2B38474300A6735B /* SignatureViewApp.swift */; };
 		ACD9059E2B38474300A6735B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD9059D2B38474300A6735B /* ContentView.swift */; };
 		ACD905A02B38474400A6735B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACD9059F2B38474400A6735B /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ACC94FB02B39E7890021A07D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ACD905982B38474300A6735B /* SignatureView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SignatureView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACD9059B2B38474300A6735B /* SignatureViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignatureViewApp.swift; sourceTree = "<group>"; };
 		ACD9059D2B38474300A6735B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				ACD905AB2B38487E00A6735B /* SignatureView.swift */,
 				ACD905A92B38476A00A6735B /* DrawSignatureView.swift */,
 				ACD9059D2B38474300A6735B /* ContentView.swift */,
+				ACC94FB02B39E7890021A07D /* README.md */,
 				ACD9059F2B38474400A6735B /* Assets.xcassets */,
 				ACD905A12B38474400A6735B /* Preview Content */,
 			);
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACC94FB12B39E7890021A07D /* README.md in Resources */,
 				ACD905A32B38474400A6735B /* Preview Assets.xcassets in Resources */,
 				ACD905A02B38474400A6735B /* Assets.xcassets in Resources */,
 			);
